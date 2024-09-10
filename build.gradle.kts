@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.8.0" // Замість плагіна Java додаємо Kotlin
+    kotlin("jvm") version "1.8.0"
     id("io.qameta.allure") version "2.11.2"
 }
 
